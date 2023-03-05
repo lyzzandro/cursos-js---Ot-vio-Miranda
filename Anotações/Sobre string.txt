@@ -1,0 +1,29 @@
+Pedir um dado ao usuário:
+const nome = prompt('Digite algo:');
+
+quantidade de letras de uma string:
+valor.lentgth
+
+saber letra pela posicão
+valor[1]
+
+saber o indece de uma letra:
+valor.indexOf('letra')
+
+saber o indece de uma letra na ultima posição:
+valor.lastIndexOf('letra')
+
+descobrir as 3 útimas letras de um nome:
+nome.slice(-3)
+
+dividir texto pelos espaços:
+nome.aplice(' ')
+
+colocar nome em maiúsculo:
+nome.toUpperCase()
+
+colocar nome em minúsculo:
+nome.toLowerCase()
+
+Colocar texto dentro do body:
+document.body.innerHTML += ' coloque o texto <br/>';

@@ -1,0 +1,14 @@
+converter numero em string sem deixar de ser number:
+num1.toString()
+
+arredondar número decimal:
+num1.toFixed(totalDeCasasDecimais)
+
+Saber se o número é inteiro:
+Number.isInteger(num1)
+
+saber se uma conta deu errada:
+Number.isNan(valor)
+
+Transformar um número decimal em inteiro:
+num1 = Number(num1.toFixed(2))
